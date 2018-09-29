@@ -1,0 +1,2 @@
+# eossuperwalletresource
+Eossuperwallet resource
